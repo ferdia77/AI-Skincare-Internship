@@ -1,0 +1,9 @@
+.flex-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.flex__row--button{
+  padding: 0 16px;
+}
